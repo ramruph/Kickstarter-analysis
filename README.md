@@ -13,9 +13,15 @@ I ran two different overall analysis to get graphs that visualize the outcomes b
 ### Analysis of Outcomes Based on Launch Date
 For the analysis of Outcomes based on Launch Date I deployed a pivot table in order to get a quick glance of how many theater plays were succesful in meeting their goal or if they failed or canceled. The rows for the pivot table is grouped by months to see which months had the most success when it came to fundraising and which months were the worst for fundraising. With this pivot table data I then ran a line graph to visualize the findings.
 
+![](resources/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 For the analysis of Outcomes based on Goals we looked at the number of plays succeeded in their fundraising goal, number of plays that failed, and the number of plays that were canceled. I used the countifs() function to get the total number for each column based on the criteria of fitting into the goal fundraising brackets, outcome, and, percentage of successfful, failed, and canceled projects for each row. I also generated a line graph to visualize the findings from the analysis.
+
+
+![](resources/Outcomes_vs_Goals.png)
+
 
 
 ### Challenges and Difficulties Encountered
